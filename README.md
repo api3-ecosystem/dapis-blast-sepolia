@@ -6,7 +6,7 @@ This repository contains the proxy contract addresses for the API3 dAPIs availab
 
 | Assets | Deviation threshold | Proxy contracts | Sponsor wallets |
 |--------|---------------------|-----------------|-----------------|
-| ETH/USD | 1% |  |  |
+| ETH/USD | 1% | 0x4EebA314445C64E83fc09E37FCD558BCee9093D3 | 0xC680BcDA3b122837A0D49ba23f607b412Cd90906 |
 | BTC/USD | 1% | 0xd97c8EeE2Fe981c8270c25aD84Fc7CB460344282 | 0x82D117e7AdEd3fC8A9266252899B21C843dDC4B2 |
 | AAPL/USD | 1% | 0xe265914fc8DF29ffD82bfD7F881c211236d1B0A6 | 0x91E8A2033f1ce7f0138f88e01EFEAA14776387FD |
 | AAVE/USD | 1% | 0x889E61caB782C140dF97c4B4cbb1470571E66AdD | 0x17EeAbF49bE81B763F88877E508584cf0A5a5eD6 |
