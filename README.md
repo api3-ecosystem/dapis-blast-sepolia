@@ -2,6 +2,11 @@
 
 This repository contains the proxy contract addresses for the API3 dAPIs available on Blast L2 Testnet. The dAPIs are deployed on-chain and the proxy contracts are used to read the latest data feed values.
 
+### API3ServerV1 Address
+`0xab57E230233A18A5EF65197D85f117E00da65168`
+### Proxy Factory
+`0x34e3ED2b168CA9350F167B47C720f2397E9Fc8d5`
+
 ## Proxy Contract Addresses
 
 | Assets | Deviation threshold | Proxy contracts | Sponsor wallets |
